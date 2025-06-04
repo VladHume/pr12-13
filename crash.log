@@ -1,0 +1,13 @@
+
+---- Crash caught at Wed Jun  4 23:19:51 2025
+Signal 11 (Segmentation fault) received.
+Register dump (x86_64):
+RIP: 0x400b38
+RSP: 0x8204f77f0
+RBP: 0x8204f7800
+RAX: 0x0
+RBX: 0x400b10
+RCX: 0x0
+RDX: 0x26
+RSI: 0x28bf4b209000
+RDI: 0x1
